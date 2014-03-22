@@ -1,4 +1,4 @@
-FROM crosbymichael/golang
+FROM ymazzer/golang
 
 ADD . /app/
 WORKDIR /app/
